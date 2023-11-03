@@ -427,6 +427,13 @@ ou proteínas.
   - não é constante
   - > Organismos com flagelação peritríquia normalmente deslocam-se em linha reta, de forma lenta e intencional.
   - flagelação polar: rapido, girando ao redor de si mesmo
+- corrida: se move pra frente suavemente
+- oscilação: fica parada mas bamboleando
+> Durante o movimento para frente em uma corrida, o
+motor flagelar gira em sentido anti-horário. Quando os flagelos
+giram em sentido horário, o feixe de flagelos é separado, a
+movimentação para frente é interrompida, e a célula passa a
+oscilar
 
 ### DESLIZAMENTO
 
@@ -445,6 +452,20 @@ ou proteínas.
 
 ### TAXIAS
 
+#### QUIMIOTAXIA
+
+- muito conhecida em bactérias natatorias
+- ocorre em arqueias também, pelas mesmas proteínas
+- uma célula encontra um gradiente de um composto em um ambiente e se aproxima ou se afasta dele de forma automática e não aleatória
+- células peritríquias:
+  - > enquanto se movimenta, a célula monitora seu ambiente, comparando seu estado químico àquele percebido poucos momentos antes
+    - cascata de proteínas
+    - proteínas quimioreceptores
+- células polares:
+  - a rotação flagelar é interrompida de tempo em tempo e quando volta a girar, segue em uma direção aleatória
+  - 
+
+#### FOTOTAXIA
 
 ## MINIQUESTIONÁRIOS
 
