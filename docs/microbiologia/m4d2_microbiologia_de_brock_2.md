@@ -463,7 +463,14 @@ oscilar
     - proteínas quimioreceptores
 - células polares:
   - a rotação flagelar é interrompida de tempo em tempo e quando volta a girar, segue em uma direção aleatória
-  - 
+  - > Por meio da reorientação aleatória,
+a célula eventualmente encontra uma via de concentração
+crescente do atrativo, mantendo uma corrida até que seus quimiorreceptores
+encontrem-se saturados ou que perceba uma
+diminuição na concentração do agente atrativo.
+- Como medir a quimiotaxia?
+  - método do capilar
+
 
 #### FOTOTAXIA
 
