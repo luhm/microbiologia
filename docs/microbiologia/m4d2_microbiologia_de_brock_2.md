@@ -417,6 +417,34 @@ ou proteínas.
   - mais delgados
   - várias flagelinas diferentes, nada a ver com as bacterianas
   - alimentados por ATP e não protons
+- o filamento flgelar começa pela ponta, e não pela base
+  - primeiro é o anel MS, inserido na membrana plasmatica
+  - as proteínas passam pelo filamento e formam a ponta
+    - as proteínas cap ajudam a flagelina a ir passando e formando a ponta e crescendo
+    - ocorre de maneira contínua até o tamanho final
+  - flagelos quebrados podem rotacionar e ser reconstruidos
+- velocidade:
+  - não é constante
+  - > Organismos com flagelação peritríquia normalmente deslocam-se em linha reta, de forma lenta e intencional.
+  - flagelação polar: rapido, girando ao redor de si mesmo
+
+### DESLIZAMENTO
+
+- lento e suave
+- ao longo do eixo da célula
+- celulas filamentosas ou bacilares
+- requer superfície sólida
+- ao deslizar, afastam-se do centro da colônia
+- apenas bactérias, principalmente cianobactérias, e nenhuma arqueia
+- mecanismo:
+  - secreção limosa
+  - motilidade pulsante
+    - pili IV
+  - motilidade específica por proteínas que ficam na membrana citoplasmática e/ou na externa
+- permite interação entre células, cooperação, 
+
+### TAXIAS
+
 
 ## MINIQUESTIONÁRIOS
 
@@ -512,3 +540,14 @@ tão impermeável à água?
 1. O que é o ácido dipicolínico e onde ele é encontrado?
 2. O que são PPASs e qual sua função?
 3. O que é formado quando um endósporo germina?
+
+### p. 59
+1. As células de Salmonella possuem flagelos peritríquios, as de Pseudomonas possuem flagelação polar, e as de Spirillum possuem flagelos lofotríquios. Utilizando um esquema, mostre como cada flagelo apareceria em uma coloração.
+2. Compare os flagelos de bactérias e arqueias em termos de
+estrutura e função.
+
+### p. 61
+1. Como a motilidade por deslizamento diferencia-se da motilidade natatória em relação ao mecanismo e às exigências?
+2. Diferencie o mecanismo de motilidade deslizante de uma
+cianobactéria filamentosa daquele de Flavobacterium.
+
