@@ -541,6 +541,78 @@ orgânicos em CO2
 - metabolismo estritamente fermentativo
 - oxidação do composto piruvato a H2, CO2 e acetato
 
+#### CLOROPLASTOS
+
+- contem clorofila
+- eucariotos fototróficos
+- realizam fotossintese
+- grandes, visiveis em micro optico
+- numero varia
+- membrana externa permeável
+- membrana interna menos permeável
+  - circunda o estroma ("matriz mitocondrial")
+    - contém ribulose bifosfato carboxilase (RubisCO)
+    - enzima do ciclo de Calvin
+- tilacoides:
+  - série de discos membranosos achatados
+  - onde ocorrem as reações com a clorofila
+
+#### ENDOSSIMBIOSE
+
+- mitocôndrias e cloroplastos relacionados com bactérias através de relação de simbiose
+- > Gradualmente, ao
+longo do tempo, esses simbiontes originalmente de vida livre
+tornaram-se parte íntima da célula eucariótica.
+- Evidências:
+  - possuem seus próprios genomas e ribossomos
+  - genoma circular
+
+#### RETÍCULO ENDOPLASMÁTICO
+
+- rede de membranas
+- dois tipos
+  - rugoso - tem ribossomos; produtor de glicoproteínas,
+  - liso - síntese de lipídeos e metabolismo de carboidratos
+
+#### APARELHO DE GOLGI
+
+- conjunto de membranas empilhadas
+- atua com o Ret End, modificando seus produtos
+
+#### LISOSSOMOS
+
+- compartimentos envoltos por membrana
+- contêm diversas enzimas digestivas
+- hidrolisam proteínas, gorduras e polissacarídeos
+- funde-se a vacúolos
+
+### CITOESQUELETO
+
+#### MICROTÚBULOS
+
+- tubos com cerne oco
+- compostos pelas proteínas a-tubulina e b-tubulina
+- funções:
+  - manutenção da forma celular
+  - motilidade da célula realizada pelos cílios e flagelos
+  - na movimentação dos cromossomos durante a mitose
+  - na movimentação das organelas dentro da célula
+
+#### MICROFILAMENTOS
+
+- mais finos
+- duas fitas entrelaçadas de actina
+- funções:
+  - manutenção e modificação da forma celular
+  - motilidade celular por pseudópodes
+  - divisão celular
+
+#### FILAMENTOS INTERMEDIÁRIOS
+
+- proteinas fibrosas espessas
+- manutenção da forma celular
+- posicionamento das organelas
+
 ## MINIQUESTIONÁRIOS
 
 ### p. 27
@@ -657,4 +729,15 @@ cianobactéria filamentosa daquele de Flavobacterium.
 2. O que são as histonas e qual a sua função?
 3. Quais são as principais diferenças entre mitose e meiose?
 
+### p. 67
+1. Quais reações essenciais ocorrem na mitocôndria e nos cloroplastos, e quais produtos essenciais são produzidos nestas organelas?
+2. Compare e diferencie o metabolismo do piruvato na mitocôndria e nos hidrogenossomos.
+3. O que é a hipótese endossimbiótica e que evidências a
+suportam?
+
+### p. 69
+1. Por que as atividades que ocorrem no lisossomo devem ser isoladas do próprio citoplasma?
+2. Como o citoesqueleto da célula se mantém unido?
+3. Do ponto de vista funcional, como se diferem os flagelos das
+células eucarióticas e procarióticas?
 
