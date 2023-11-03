@@ -40,7 +40,7 @@ Exemplo:
 
 ## Comando para abrir o site:
 
-`python -m pipenv run mkdocs serve`
+`mkdocs serve`
 
 ## Texto colorido
 
