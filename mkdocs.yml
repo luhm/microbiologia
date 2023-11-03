@@ -15,15 +15,15 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: purple
-      accent: pink
+      primary: deep orange
+      accent: amber
       toggle:
         icon: material/brightness-7
         name: Dark mode
 
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: purple
+      primary: deep orange
       toggle:
         icon: material/brightness-4
         name: Light mode
@@ -38,9 +38,10 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 nav:
-  - Empreendedorismo:
-    - Informações Gerais: empreendedorismo/m4d1_empreendedorismo.md
-    - Conteúdo: empreendedorismo/emp_conteudo.md
-    - Avaliações: empreendedorismo/emp_avaliacoes.md
-    - Projeto: empreendedorismo/emp_projeto.md
+  - Microbiologia:
+    - Informações Gerais: microbiologia/m4d2_microbiologia.md
+    - Conteúdo: microbiologia/micro_conteudo.md
+    - Avaliações: microbiologia/micro_avaliacoes.md
+    - Microbiologia de Brock:
+      - Capítulo 2: microbiologia/m4d2_microbiologiade_brock_2.md
 
