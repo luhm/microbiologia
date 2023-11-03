@@ -471,8 +471,75 @@ diminuição na concentração do agente atrativo.
 - Como medir a quimiotaxia?
   - método do capilar
 
+![Teste do capilar](./assets/teste_quimiotaxia.png)
 
 #### FOTOTAXIA
+
+- atração pela luz
+  - depende do comprimento de onda
+- realizar fotossíntese
+- > as células se movem de um gradiente de luz de baixa intensidade para um de alta intensidade
+- fotorreceptores análogos aos quimiorreceptores
+- escotofobotaxia:
+  - para fora do campo luminoso do microscópio
+  - afeta negativamente a fotossíntese
+  - afeta negativamente a energia da célula e faz ela mudar de sentido e voltar à luz
+- Outras taxias:
+  - aerotaxia: do oxigênio
+  - osmotaxia: força iônica
+  - hidrotaxia: água
+
+### EUCARIOTOS MICROBIANOS
+
+- Fungos, algas, protozoários
+- variam nas organelas
+  - (quase) universais:
+    - mitocondrias
+    - aparelho de golgi
+    - lisossomos
+    - ret endoplasmático
+    - microtúbulos e microfilamentos
+  - específicas:
+    - cloroplastos
+    - flagelos ou cílios
+    - parede celular (algas e fungos)
+- todas tem um núcleo por um par de membranas
+  - contem os cromossomos
+  - enrolados em histonas
+  - membranas
+    - separadas por um espaço
+    - interna: um saco simples; interação com o nucleoplasma
+    - externa: contínua ao ret end; interação com o citoplasma
+  - transporte nuclear - passagem de substancias pelos poros
+  - nucleolo - dentro do nucleo - síntese de RNA ribossomal (forma ribossomos)
+- divisão celular
+  - mitose e meiose
+  - diploides ou haploides
+
+#### MITOCÔNDRIAS
+- respiração de celulas aeróbias
+- dimensões bacterianas
+- varia em numero
+- duas membranas
+  - a externa tem poros
+  - a interna tem estrutura mais parecida com as de bacterias
+  - cristas: membranas internas convolutas
+    - invaginações da membrana interna
+    - contem enzimas da respiração e da produção de ATP
+  - matriz mitocondrial: dentro da mitocondria
+    - > contém enzimas envolvidas na oxidação
+de compostos orgânicos, em particular, as enzimas do
+ciclo do ácido cítrico, a principal via para a combustão de compostos
+orgânicos em CO2
+
+#### HIDROGENOSSOMO
+
+- anaeróbios, sem mitocondrias
+- do tamanho de mitocondrias
+- desprovido das enzimas do ciclo do ácido cítrico
+- não apresenta cristas
+- metabolismo estritamente fermentativo
+- oxidação do composto piruvato a H2, CO2 e acetato
 
 ## MINIQUESTIONÁRIOS
 
@@ -578,4 +645,16 @@ estrutura e função.
 1. Como a motilidade por deslizamento diferencia-se da motilidade natatória em relação ao mecanismo e às exigências?
 2. Diferencie o mecanismo de motilidade deslizante de uma
 cianobactéria filamentosa daquele de Flavobacterium.
+
+### p. 64
+1. Defina o termo quimiotaxia. Como a quimiotaxia se diferencia da aerotaxia?
+2. O que promove uma corrida ou uma oscilação?
+3. Como a quimiotaxia pode ser medida quantitativamente?
+4. Qual a diferença entre escotofobotaxia e fototaxia?
+
+### p. 65
+1. Como o DNA é organizado nos cromossomos eucarióticos?
+2. O que são as histonas e qual a sua função?
+3. Quais são as principais diferenças entre mitose e meiose?
+
 
