@@ -40,10 +40,12 @@ markdown_extensions:
 nav:
   - Microbiologia:
     - Informações Gerais: microbiologia/m4d2_microbiologia.md
-    - Conteúdo: microbiologia/micro_conteudo.md
+    - Conteúdo:
+      - Geral: microbiologia/micro_conteudo.md
+      - Microbiologia de Brock:
+        - Capítulo 2: microbiologia/m4d2_microbiologia_de_brock_2.md
+        - Miniquestionários: microbiologia/micro_de_brock_miniquest_cap2.md
     - Avaliações: microbiologia/micro_avaliacoes.md
-    - Microbiologia de Brock:
-      - Capítulo 2: microbiologia/m4d2_microbiologia_de_brock_2.md
-      - Miniquestionários: microbiologia/micro_de_brock_miniquest_cap2.md
+    
 
 

@@ -1,6 +1,4 @@
-# <span style="color:teal">**MICROBIOLOGIA DE BROCK**</span>
-
-## CAPÍTULO 2 - ESTRUTURAS CELULARES MICROBIANAS E SUAS FUNÇÕES
+# <span style="color:teal">**MICROBIOLOGIA DE BROCK**</span> <span style="color:#12cac1">CAPÍTULO 2 - ESTRUTURAS CELULARES MICROBIANAS E SUAS FUNÇÕES</span>
 
 MOTILIDADE
 

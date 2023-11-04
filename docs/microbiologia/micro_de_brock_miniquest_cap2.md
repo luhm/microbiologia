@@ -1,4 +1,4 @@
-# <span style="color:teal">**MINIQUESTIONÁRIOS - capítulo 2**</span>
+# <span style="color:#12cac1">**MINIQUESTIONÁRIOS - capítulo 2**</span>
 
 **p. 27**
 

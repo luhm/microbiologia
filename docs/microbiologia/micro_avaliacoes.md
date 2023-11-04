@@ -1,6 +1,6 @@
 # <span style="color:teal"> **AVALIAÇÕES** </span>
 
-## FÓRUM - <span style="color:teal">ATÉ 22/11</span>
+## FÓRUM - <span style="color:#12cac1">ATÉ 22/11</span>
 
 * [ ] FEITO
 * [ ] POSTADO
@@ -19,16 +19,16 @@ Intervenção 1: responder as questões motivadoras do fórum (0,7).
 
 Intervenção 2: comentar a resposta de um colega de turma de maneira crítica e reflexiva (0,3).
 
-## QME - UN 2 - <span style="color:teal">ATÉ 29/11</span>
+## QME - UN 2 - <span style="color:#12cac1">ATÉ 29/11</span>
 
 * [ ] FEITO
 
-## ATV ABERTA - <span style="color:teal">ATÉ 22/11</span>
+## ATV ABERTA - <span style="color:#12cac1">ATÉ 22/11</span>
 
 * [ ] FEITO
 
 * [ ] ENVIADO
 
-## QME - UN 4 - <span style="color:teal">ATÉ 29/11</span>
+## QME - UN 4 - <span style="color:#12cac1">ATÉ 29/11</span>
 
 * [ ] FEITO
