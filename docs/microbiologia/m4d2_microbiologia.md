@@ -1,4 +1,4 @@
-# M4D2 - MICROBIOLOGIA
+# <span style="color:teal">**M4D2 - MICROBIOLOGIA**</span>
 
 __PROF__: Rodrigo César Assis Caixeta
 
