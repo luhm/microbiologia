@@ -131,3 +131,11 @@ suportam?
 2. Como o citoesqueleto da célula se mantém unido?
 3. Do ponto de vista funcional, como se diferem os flagelos das
 células eucarióticas e procarióticas?
+
+**p. 76**
+
+1. Quais os quatro elementos químicos que constituem a maior parte do peso seco de uma célula?
+2. Quais as duas classes de macromoléculas que contêm a
+maior quantidade de nitrogênio em uma célula?
+3. Diferencie “elementos-traço” e “fatores de crescimento”.
+
