@@ -30,9 +30,16 @@
 
 * Capítulo 45: Micologia Médica
 
-<span style="color:teal">Livro: Microbiologia clínica para o controle de infecção relacionada à assistência à saúde.</span>
+<span style="color:teal">Livro: Microbiologia clínica para o controle de infecção relacionada à assistência à saúde. Agência Nacional de Vigilância Sanitária (Anvisa)</span>
 
-* Módulo 8: Detecção e identificação de fungos de importância médica - Agência Nacional de Vigilância Sanitária (Anvisa)
+* Módulo 8: Detecção e identificação de fungos de importância médica
+
+# AULA PRESENCIAL 1
+
+<span style="color:teal"> Livro: Microbiologia clínica para o controle de infecção relacionada à assistência à saúde. Agência Nacional de Vigilância Sanitária (Anvisa) </span>
+
+* Módulo 4: Procedimentos Laboratoriais: da requisição do exame à análise microbiológica e laudo final
+* Módulo 6: Detecção e identificação de bactérias de importância médica
 
 # UNIDADE 3
 
