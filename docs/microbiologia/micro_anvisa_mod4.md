@@ -62,6 +62,28 @@
 ![imagem](./assets/quantificacao_gram.png)
 ![imagem](./assets/revisao_de_resultados_gram.png)
 
-## CAPÍTULO 4
+### OUTRAS COLORAÇÕES
 
-## CAPÍTULO 5
+![imagem](./assets/06213330.png)
+
+![imagem](./assets/06213451.png)
+
+![imagem](./assets/06213516.png)
+
+## CAPÍTULO 4 - SEMEADURA EM MEIOS DE CULTURA
+
+ESSE CAPÍTULO TEM VÁRIOS PASSO A PASSO PARA CADA MATERIAL E CADA TIPO DE COLETA/CULTURA.
+
+![imagem](./assets/06213836.png)
+
+## CAPÍTULO 5 - IDENTIFICAÇÃO
+
+Meios de cultura:
+- **Agar sangue** - rico e não seletivo; gram neg e pos; fungos
+- **Agar chocolate** - rico e não seletivo; bactérias aeróbias
+- **Agar MacConkey** - seltivo gram neg; diferencial p/ lactose
+- **Agar salmonela-shigella** - seletiva pra essas duas bacs; diferencial para lactose
+- **Agar Hecktoen Enteric** - seletivo para salmonela e shigella; diferencial para lactose
+- **Ágar Thayer Martin Modificado** - seletivo para adição de colistina, vancomicina e nistatina; inibe enterobac, gram pos, fungos
+
+![imagem](./assets/06214533.png)
