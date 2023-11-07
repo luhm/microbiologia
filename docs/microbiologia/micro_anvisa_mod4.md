@@ -87,3 +87,4 @@ Meios de cultura:
 - **Ágar Thayer Martin Modificado** - seletivo para adição de colistina, vancomicina e nistatina; inibe enterobac, gram pos, fungos
 
 ![imagem](./assets/06214533.png)
+
