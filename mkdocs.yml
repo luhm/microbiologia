@@ -42,9 +42,10 @@ nav:
     - Informações Gerais: microbiologia/m4d2_microbiologia.md
     - Conteúdo:
       - Geral: microbiologia/micro_conteudo.md
+      - Microbiologia - Anvisa: microbiologia/micro_anvisa_mod4.md
       - Microbiologia de Brock:
         - Capítulo 2: microbiologia/m4d2_microbiologia_de_brock_2.md
-        - Capítulo 3: microbiologia\m4d2_microbiologia_de_brock_3.md
+        - Capítulo 3: microbiologia/m4d2_microbiologia_de_brock_3.md
         - Miniquestionários: microbiologia/micro_de_brock_miniquest_cap2.md
     - Avaliações: microbiologia/micro_avaliacoes.md
     
