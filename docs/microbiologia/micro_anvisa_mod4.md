@@ -76,6 +76,48 @@ ESSE CAPÍTULO TEM VÁRIOS PASSO A PASSO PARA CADA MATERIAL E CADA TIPO DE COLET
 
 ![imagem](./assets/06213836.png)
 
+### CARACTERÍSTICAS MACROSCÓPICAS DAS COLÔNIAS
+
+**TAMANHO:**
+- considerar a placa como um todo
+- <span style="color:teal"> puntiforme <1mm </span> - muito pequenas, bactérias exigentes
+- <span style="color:teal"> pequenas até 2mm </span> 
+    - Agar MacConkey - Shigella e Yersinia
+    - Agar salmonela-shigella - Shigella e Yersinia
+    - Stenotrophomonas maltophilia, Acinetobacter spp., Enterococcus spp., pneumococos, Streptococcus spp. Cândida spp.
+    - alguns esfafilococos coagulase negativo
+- <span style="color:teal"> média até 3mm </span> - Enterobactérias e estafilococos
+- <span style="color:teal"> grandes mais de 4mm </span> -
+    - Bacillus spp.
+    - Klebsiella e Enterobacter
+    - Pseudomonas aeruginosa
+
+**COR:**
+- depende do meio de cultura usado
+- meios não diferenciais:
+    - S. aureus – amarelo
+    - Micrococcus – amarelo
+    - Serratia marcescens ou rubidae – avermelhado
+    - Roseomonas – róseo
+    - Pseudomonas – diferentes tons de verde e castanho
+    - Enterococcus casseliflavus – amarelo
+- meios diferenciais - a coloração da colônia sofre interferência das reações que
+ocorrem com substratos dos meios de cultura:
+    - Utilização da lactose no MacConkey – vermelho
+    - Utilização da lactose no CLED – amarelo
+    - Utilização do manitol em Ágar manitol salgado – amarelo
+    - Produção de H2S no TSI, Hecktoen Enteric e Salmonella-Shigella – negro
+
+**HEMÓLISE**
+- Baseada na lise de hemácias contidas no Ágar Sangue (5%)
+    - lise total: beta-hemolise: a formação de halo de transparência ao redor e/ou sob a colônia
+        - S. pyogenes, S. agalactiae, Listeria, S. aureus, S. haemolyticcus, Enterococcus.
+    - lise parcial: alfa hemólise: halo esverdeado
+        - S. viridans, S. pneumoniae, Enterococcus
+    - sem lise: gama hemólise:  Enterococcus, Estafilococos coagulase negativo
+
+
+
 ## CAPÍTULO 5 - IDENTIFICAÇÃO
 
 Meios de cultura:
