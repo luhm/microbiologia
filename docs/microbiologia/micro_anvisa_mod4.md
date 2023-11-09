@@ -116,7 +116,19 @@ ocorrem com substratos dos meios de cultura:
         - S. viridans, S. pneumoniae, Enterococcus
     - sem lise: gama hemólise:  Enterococcus, Estafilococos coagulase negativo
 
+![imagem](./assets/forma_da_colônia.png)
 
+**AVALIAÇÃO DO CRESCIMENTO E CONTAGEM**
+
+- homogeneidade da colônia
+- marcar a contagem com uma caneta o verso para evitar dupla contagem
+- contagem por estimativa: dividir a plana em 4 ou 8 espaços
+    - esoclher uma das partes
+    - contar o numero de UFC nela
+    - multiplicar pelo total de partes
+    - converter o número de UFC contadas em UFC/mL ou UFC/g
+
+![ímagem](./assets/fator_de_correcao_do_ufc.png)
 
 ## CAPÍTULO 5 - IDENTIFICAÇÃO
 
