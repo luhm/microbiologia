@@ -412,9 +412,9 @@ ou proteínas.
 - proteinas MOT: por onde passam os protons para gerar movimento
 - proteínas FLI: inverte o movimento do flagelo
 - em arqueias:
-  - mais delgados
-  - várias flagelinas diferentes, nada a ver com as bacterianas
-  - alimentados por ATP e não protons
+    - mais delgados
+    - várias flagelinas diferentes, nada a ver com as bacterianas
+    - alimentados por ATP e não protons
 - o filamento flgelar começa pela ponta, e não pela base
   - primeiro é o anel MS, inserido na membrana plasmatica
   - as proteínas passam pelo filamento e formam a ponta
