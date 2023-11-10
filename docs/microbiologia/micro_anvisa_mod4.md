@@ -82,42 +82,41 @@ ESSE CAPÍTULO TEM VÁRIOS PASSO A PASSO PARA CADA MATERIAL E CADA TIPO DE COLET
 ### CARACTERÍSTICAS MACROSCÓPICAS DAS COLÔNIAS
 
 **TAMANHO:**
+
 - considerar a placa como um todo
 - <span style="color:teal"> puntiforme < 1mm </span> - muito pequenas, bactérias exigentes
-- <span style="color:teal"> pequenas até 2mm </span> 
-    - Agar MacConkey - Shigella e Yersinia
-    - Agar salmonela-shigella - Shigella e Yersinia
-    - Stenotrophomonas maltophilia, Acinetobacter spp., Enterococcus spp., pneumococos, Streptococcus spp. Cândida spp.
-    - alguns esfafilococos coagulase negativo
+- <span style="color:teal"> pequenas até 2mm </span>
+  - Agar MacConkey - Shigella e Yersinia
+  - Agar salmonela-shigella - Shigella e Yersinia
+  - Stenotrophomonas maltophilia, Acinetobacter spp., Enterococcus spp., pneumococos, Streptococcus spp. Cândida spp.
+  - alguns esfafilococos coagulase negativo
 - <span style="color:teal"> média até 3mm </span> - Enterobactérias e estafilococos
 - <span style="color:teal"> grandes mais de 4mm </span> -
-    - Bacillus spp.
-    - Klebsiella e Enterobacter
-    - Pseudomonas aeruginosa
+  - Bacillus spp.
+  - Klebsiella e Enterobacter
+  - Pseudomonas aeruginosa
 
 **COR:**
+
 - depende do meio de cultura usado
 - meios não diferenciais:
-    - S. aureus – amarelo
-    - Micrococcus – amarelo
-    - Serratia marcescens ou rubidae – avermelhado
-    - Roseomonas – róseo
-    - Pseudomonas – diferentes tons de verde e castanho
-    - Enterococcus casseliflavus – amarelo
+  - S. aureus – amarelo
+  - Micrococcus – amarelo
+  - Serratia marcescens ou rubidae – avermelhado
+  - Roseomonas – róseo
+  - Pseudomonas – diferentes tons de verde e castanho
+  - Enterococcus casseliflavus – amarelo
 - meios diferenciais - a coloração da colônia sofre interferência das reações que
-ocorrem com substratos dos meios de cultura:
-    - Utilização da lactose no MacConkey – vermelho
-    - Utilização da lactose no CLED – amarelo
-    - Utilização do manitol em Ágar manitol salgado – amarelo
-    - Produção de H2S no TSI, Hecktoen Enteric e Salmonella-Shigella – negro
+  ocorrem com substratos dos meios de cultura: - Utilização da lactose no MacConkey – vermelho - Utilização da lactose no CLED – amarelo - Utilização do manitol em Ágar manitol salgado – amarelo - Produção de H2S no TSI, Hecktoen Enteric e Salmonella-Shigella – negro
 
 **HEMÓLISE**
+
 - Baseada na lise de hemácias contidas no Ágar Sangue (5%)
-    - lise total: beta-hemolise: a formação de halo de transparência ao redor e/ou sob a colônia
-        - S. pyogenes, S. agalactiae, Listeria, S. aureus, S. haemolyticcus, Enterococcus.
-    - lise parcial: alfa hemólise: halo esverdeado
-        - S. viridans, S. pneumoniae, Enterococcus
-    - sem lise: gama hemólise:  Enterococcus, Estafilococos coagulase negativo
+  - lise total: beta-hemolise: a formação de halo de transparência ao redor e/ou sob a colônia
+    - S. pyogenes, S. agalactiae, Listeria, S. aureus, S. haemolyticcus, Enterococcus.
+  - lise parcial: alfa hemólise: halo esverdeado
+    - S. viridans, S. pneumoniae, Enterococcus
+  - sem lise: gama hemólise: Enterococcus, Estafilococos coagulase negativo
 
 ![imagem](./assets/forma_da_colônia.png)
 
@@ -126,10 +125,10 @@ ocorrem com substratos dos meios de cultura:
 - homogeneidade da colônia
 - marcar a contagem com uma caneta o verso para evitar dupla contagem
 - contagem por estimativa: dividir a plana em 4 ou 8 espaços
-    - esoclher uma das partes
-    - contar o numero de UFC nela
-    - multiplicar pelo total de partes
-    - converter o número de UFC contadas em UFC/mL ou UFC/g
+  - esoclher uma das partes
+  - contar o numero de UFC nela
+  - multiplicar pelo total de partes
+  - converter o número de UFC contadas em UFC/mL ou UFC/g
 
 ![ímagem](./assets/fator_de_correcao_do_ufc.png)
 
