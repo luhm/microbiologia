@@ -145,4 +145,39 @@
 
 ### IDENTIFICAÇÃO SOROLÓGICA
 
+> As amostras relacionadas bioquimicamente são divididas em subgrupos ou tipos, por
+critério sorológico, de acordo com a presença dos antígenos somático (O), flagelar (H)
+e de envoltório ou cápsula (K). Desse modo, os sorotipos são divisões baseadas no
+relacionamento antigênico, enquanto os biotipos são amostras do mesmo sorotipo
+que diferem em características bioquímicas.
 
+- _Salmonella_:
+  - 3 antissoros:
+    a) Anti-Salmonella polivalente somático (Grupos A,B,C,D,E)
+    b) Anti-Salmonella somático, Grupo D (S. typhi)
+    c) Anti-Salmonella, anti Vi - virulência
+  - soros flagelares (a, b, c, d, i, 1, 2, 5)
+
+ ![grupos_sorologicos_salmonella](./assets/grupos_sorologicos_salmonella.png)
+
+ - _Shigella_:
+
+![grupos_sorologicos_shigella](./assets/grupos_sorologicos_shigella.png)
+
+- _Escherichia coli_:
+> As amostras de Escherichia coli que causam diarreia pertencem a cinco grupos
+principais: E. coli Enteropatogênica (EPEC), E. coli Enterotoxigênica (ETEC),
+E. coli Enteroinvasora (EIEC), E. coli produtora da toxina Shiga (STEC), a qual
+inclui o subgrupo referido como E. coli enterohemorrágica (EHEC) e E. coli
+enteroagregativa (EAEC).
+- Soro Anti E. coli Enteropatogênica Clássica (EPEC):
+  - Polivalente A: anti 026, 055, 0111, 0119
+  - Polivalente B: anti 0114, 0125, 0142,0158
+  - Polivalente C: anti 086, 0126, 0127, 0128
+- Soro Anti E. coli Enteroinvasora (EIEC):
+  - Polivalente A: anti 028ac, 029, 0136, 0144, 0152
+  - Polivalente B: anti 0112ac, 0124, 0143, 0164, 0167
+- Soro Anti E. coli O 157 (EHEC):
+  - utilizar o soro para O157:H7
+ 
+  
