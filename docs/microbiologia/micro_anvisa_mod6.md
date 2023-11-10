@@ -66,9 +66,9 @@
   - enteropatogênicas:
     - Salmonella, Shigella spp., categorias diarreiogênicas de E. coli e Yersinia enterocolitica
 
-![enterobactérias importancia clínica]()
+![enterobactérias importancia clínica](./assets/enterobac_importancia_clinica.png)
 
-![testes de identificação de enterobactérias]()
+![testes de identificação de enterobactérias](./assets/enterobac_testes_identif.png)
 
 ### TIPOS DE TESTES
 - convencionais: devem ser submetidos a um rigoroso controle de qualidade
@@ -94,9 +94,55 @@
       - alguns bacilos não fermentadores
 - EPM/MILI/CITRATO: 2 tubos
   - EPM: Fermentação da glicose, produção de gás, H2S, ureia, fenilalanina
+
+![tubos EPM](./assets/tubo_epm.png)
+
   - MILI:
     - Motilidade – bactérias móveis crescem além da picada turvando o meio, enquanto as imóveis crescem apenas na linha de picada.
     - descarboxilação da lisina – lisina positivo o meio torna-se roxo, na prova negativa o meio permanece amarelado nos 2/3 inferiores
     - Após a leitura da lisina adicionar 3 gotas de reativo de Kovacs para o teste de indol – a formação de um anel rosa na superfície do meio indica positividade para o indol.
   - Citrato: prova positiva é evidenciada pelo aparecimento de coloração azul na superfície
-- TSI
+- TSI - Meio Tríplice Açúcar Ferro
+  - sistema clássico, fácil interpretação
+  - necessita de provas adicionais
+  - O meio é inclinado em bico de flauta, de cor vermelho cereja
+
+![provas tsi](./assets/provas_tsi.png)
+
+![interpretação tsi](./assets/interpretacao_tsi.png)
+
+### IDENTIFICAÇÃO E DESCRIÇÃO
+
+- Secreções: Ágar sangue e Mac Conkey
+- Líquidos nobres e biópsias: Ágar chocolate e Mac Conkey
+- Fezes: Mac Conkey e SS
+- Urina: CLED ou Ágar sangue e Mac Conkey
+
+- Motilidade/H2S/Indol
+  - Crescimento apenas na linha de picada = motilidade negativa
+  - Crescimento difuso em todo o meio = motilidade positiva
+  - H2S – Produção de gás sulfídrico, verificado no TSI ou SIM
+    - H2S positivo = meio enegrecido
+    - H2S negativo = cor inalterada do meio
+  - Indol:
+    - presença de cor púrpura = indol positivo
+    - cor do reagente = indol negativo
+- Ureia de Christensen
+  - Urease positivo = cor vermelha (Proteus apresenta reação mais intensa)
+  - Urease negativo = mantém cor amarelada do meio
+- Citrato de Simmons
+  - Citrato positivo = azul e/ou crescimento no meio
+  - Citrato negativo = cor verde (inalterado)
+- Fenilalanina
+  - FA positivo = cor verde escuro na superfície
+  - FA negativo = mantém a cor do meio inalterada
+
+> P. 44 A 50 POSSUEM TABELAS COM OS DADOS DE DIFERENCIAÇÃO PRA CADA ENTEROBACTERIA
+
+![enterobac_tabela_geral1](./assets/enterobac_tabela_geral1.png)
+
+![enterobac_tabela_geral2](./assets/enterobac_tabela_geral2.png)
+
+### IDENTIFICAÇÃO SOROLÓGICA
+
+
