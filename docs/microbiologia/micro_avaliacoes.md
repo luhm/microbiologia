@@ -46,6 +46,42 @@ Acho importante lembrar que o alcool utilizado no processo interage com a camada
 
 * [ ] ENVIADO
 
+“Uma vacina é uma suspensão de organismos, ou frações de organismos, usada para induzir imunidade. Muitas doenças podem ser controladas com saneamento para impedir a disseminação e doenças sexualmente transmissíveis podem ser evitadas com o uso de preservativos. Se a prevenção falhar, as doenças bacterianas, geralmente, podem ser tratadas com antibióticos. As doenças virais, entretanto, muitas vezes não podem ser tratadas efetivamente. Portanto, a vacinação é, na maioria das vezes, o único modo possível de controle das doenças virais. Controlar uma doença não significa, necessariamente, exigir que todas as pessoas sejam imunes a ela. Se a maioria da população estiver imunizada, fenômeno chamado de imunidade coletiva (ou imunidade de rebanho), os surtos serão limitados a casos esporádicos, pois não haverá́ indivíduos suscetíveis em quantidade suficiente para sustentar a disseminação de uma epidemia.” Tortora, Gerard, J. et al. Microbiologia. Disponível em: Minha Biblioteca, (12th edição). Grupo A, 2017. 
+
+Existem atualmente diversos tipos de vacinas:  
+
+-Vacinas de vírus (ou bactéria) atenuado; 
+
+-Vacinas com vírus (ou bactéria) mortos inativados; 
+
+-Vacinas de subunidades; 
+
+-Vacinas conjugadas; 
+
+-Vacinas de ácidos nucleicos (DNA ou RNA). 
+
+**Elabore um mapa mental para as doenças virais HPV e COVID19 contendo:**
+
+a. O vírus causador da doença; 
+
+b. Os principais sintomas; 
+
+c. O tipo de vacina (para COVID19, utilizar a vacina de RNA mensageiro – mRNA); 
+
+d. O mecanismo de atuação da vacina; 
+
+e. O esquema vacinal proposto pelo Ministério da Saúde.  
+
+**Critério avaliativo:**
+
+1) Mapa mental HPV: 0,75 pontos. [ ] Pronto    
+
+2) Mapa mental COVID19 (vacina de mRNA): 0,75 pontos [ ] pronto  
+
+Você pode elaborar um único mapa, contemplando as duas doenças, ou fazer um mapa para cada doença, no entanto, deve ser enviado um único arquivo. Somente um envio será permitido.   
+
+Atenção - Poderão ser feitos desenhos ou utilização de imagens da internet, no entanto, a elaboração do mapa deverá ser realizada com suas palavras. Somente as imagens poderão ser obtidas da internet. Mapas mentais obtidos e/ou copiados da internet ou do colega terão nota zero atribuída ao estudante. Em caso de uso de imagens da internet, citar a fonte. 
+
 ## QME - UN 4 - <span style="color:#12cac1">ATÉ 29/11</span>
 
 * [ ] FEITO
