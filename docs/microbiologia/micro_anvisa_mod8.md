@@ -2,3 +2,4 @@
 Importância Médica </span>
 
 ## CAPÍTULO 3 - Microscopia e Coloração
+
