@@ -36,6 +36,8 @@ markdown_extensions:
    - pymdownx.caret
    - pymdownx.mark
    - pymdownx.tilde
+   - footnotes
+   - pymdownx.smartsymbols
 
 nav:
   - Microbiologia:
