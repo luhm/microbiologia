@@ -24,9 +24,17 @@ Critérios de avaliação:
 
 Cada estudante deverá fazer, NO MÍNIMO, 2 (duas) intervenções/participações.
 
-Intervenção 1: responder as questões motivadoras do fórum (0,7). 
+Intervenção 1: responder as questões motivadoras do fórum (0,7). _Resposta postada em 12/11/2023 às 10:56_
 
 Intervenção 2: comentar a resposta de um colega de turma de maneira crítica e reflexiva (0,3).
+
+**Postagem da colega Denise Bezerra Gomes - feita em 24/10/2023**
+
+Os Gram-negativos tem uma parede celular  fina que é envolvida por outra membrana externa já os Gram positivos tem uma parede celular grossa envolvendo a membrana citoplasmática e e os seus poros contraem-se quando expostos ao lugol. 
+
+**Comentário**
+
+Acho importante lembrar que o alcool utilizado no processo interage com a camada de lipídeos da membrana externa de gram-negativas, dissolvendo essa camada de proteção e retirando o corante antes depositado ali. A junção da ação do lugol nas gram+ e do alcool nas gram- facilita também entender porque a variação nas cores.
 
 ## QME - UN 2 - <span style="color:#12cac1">ATÉ 29/11</span>
 
