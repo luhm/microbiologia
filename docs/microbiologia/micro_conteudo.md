@@ -43,4 +43,21 @@
 
 # UNIDADE 3
 
+* Aula 01: Estrutura, Taxonomia e Classificação dos Vírus
+* Aula 02: Replicação Viral e as Fases de Infecção
+* Aula 03: Diagnóstico Laboratorial de Viroses
+* Aula 04: Antivirais
+
+<span style="color:teal"> Santos, Norma Suely de, O. et al. Virologia Humana. Disponível em: Minha Biblioteca, (4th edição). Grupo GEN, 2021. </span>
+
+* Capítulo 3: Propriedades gerais dos vírus.
+* Capítulo 4: Estratégias de replicação dos genomas virais.
+* Capítulo 8: Diagnóstico laboratorial das viroses.
+* Capítulo 9: Antivirais
+
+<span style="color:teal"> Hewlett, Martinez, et al. Virologia Básica. Disponível em: Minha Biblioteca, (4th edição). Grupo GEN, 2023 </span>
+
+* Capítulo 4: Padrões de algumas doenças virais em seres humanos.
+* Capítulo 8: Estratégias para proteção e combate à infecção viral.
+
 # UNIDADE 4
