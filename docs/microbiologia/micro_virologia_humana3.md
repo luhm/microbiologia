@@ -24,7 +24,7 @@
 
 ## CONCEITOS IMPORTANTES
 
-![imagem]()
+![imagem](./assets/definicoes_virologia.png)
 
 ## ESTRUTURAS VIRAIS E SUAS CARACTERÍSTICAS
 ### Capsídeo
@@ -85,7 +85,7 @@ tipos celulares, enquanto outros são bastante restritos quanto ao tipo celular 
     - necessário lidar, também, com as diversas enzimas OU FALTA DELAS
     - RNAm viral consegue inibir o RNAm celular
     - classificação de Baltimore - de acordo com a estratégia de replicação
-    - ![imagem]()
+    - ![imagem](./assets/classificacao_baltimore.png)
 
 ### ETAPAS
 1. **ADSORÇÃO**
