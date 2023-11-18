@@ -3,7 +3,7 @@
 ## FÓRUM - <span style="color:#12cac1">ATÉ 22/11</span>
 
 * [X] FEITO
-* [ ] POSTADO
+* [X] POSTADO
 
 A coloração de Gram é uma técnica muito importante para a classificação inicial de bactérias, permitindo observar o tamanho, a forma e o arranjo (se a bactéria tiver). A coloração depende de propriedades específicas da parede celular:  Bactérias Gram-positivas apresentarão coloração violeta (roxa), enquanto bactérias Gram-negativas apresentarão coloração pink ou vermelha (a depender do segundo corante utilizado).  
 
