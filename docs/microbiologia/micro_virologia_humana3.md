@@ -122,6 +122,13 @@ meio da ação de uma enzima viral (neuraminidase).
 - a maturação - criação dos vírions, a maioria dentro da celula, alguns depois de sair dela
 - liberação do vírus das células infectadas por lise ou brotamento
 
-## CLASSIFICAÇÃO INTERNACIONAL DOS VIRUS
+## INFECÇÕES SUBVIRAIS
 
-- 
+- Vírus-satélites
+    - ácido nucleico incompleto
+    - outro vírus para completar o seu ciclo reprodutivo
+- Viroides
+    - causam doenças em plantas
+    - RNAfs circular
+    - não codificam proteínas
+    - replicam-se no nucleo da célula
