@@ -68,6 +68,56 @@ d. O mecanismo de atuação da vacina;
 
 e. O esquema vacinal proposto pelo Ministério da Saúde.  
 
+#### Vacina do HPV
+    Virus causador
+        _Papilomavirus humano_
+    Sintomas
+        ardência, coceira, verrugas na região genital
+        feridas/placas no colo do útero, vagina, vulva
+    Tipo de vacina
+        A principal vacina é de __VLPs L1__
+    Mecanismo de atuação
+        VLPs significa _vírus-like particles_ ou partículas semelhantes a virus, e não contém o vírus em si
+        L1 é uma proteína que se assemelha à utilizada pelo vírus para infectar as células
+        As VLPs com L1 simulam uma infeccção "vazia" e impossibilita a infecção pelo vírus em si.
+    Esquema vacinal
+        9 a 14 anos
+            2 doses, 6 meses de diferença entre elas
+        15 a 45 anos e pessoas com condições clínicas especiais*
+            *Imunossuprimidos (por AIDS, tratamento oncológico, transplantes, entre outros)
+            1ª dose
+            2ª dose: 2 meses após a 1ª
+            3ª dose: 6 meses após a 1ª
+
+![mapa HPV](./assets/mapa_luiza_hpv.png)
+
+#### Vacina Covid 19
+
+    Virus causador
+        _SARS-CoV-2_
+    Sintomas
+        **sintomas respiratórios como uma gripe**: coriza, tosse, dor de garganta, dor de cabeça, febre, calafrios
+        **sintomas mais graves**: falta de ar, baixa oxigenação
+        __sintomas diferentes__: alterações no paladar e no olfato
+    Tipo de vacina
+        Vacina de RNA mensageiro - mRNA - conhecida como Pfizer
+    Mecanismo de atuação
+        1.mRNA significa RNA mensageiro, que conduz a fita de RNA para ser decodificada em proteína
+        2.ensina as células a sintetizarem uma proteína que estimula a resposta imunológica do corpo
+        3.essa proteína é exposta ao nosso sistema imunológico, em especial linfócitos T, que reconhece essas estruturas como estranhas e ativa as células de defesa para agirem contra ela
+        4.cria-se uma memória imunológica que, quando o corpo for infectado pelo vírus real, já será combatido e a infecção não ocorrerá, ou será muito branda
+    Esquema vacinal
+        População geral
+            2 doses, 8 semanas entre elas
+            dose de reforço após 4 meses da 2ª dose
+        Pessoas Imunocomprometidas
+            1ª dose
+            2ª dose: 8 semanas após a 1ª
+            3ª dose: 8 semanas após a 2ª
+            dose de reforço: 4 meses após a 3ª
+
+![mapa covid](./assets/mapa_luiza_covid.png)
+
 **Critério avaliativo:**
 
 1) Mapa mental HPV: 0,75 pontos. [ ] Pronto    

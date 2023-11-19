@@ -51,3 +51,20 @@ Exemplo:
 <span style="color:purple">teste 2</span>
 
 <span style="color:teal">**teste 3**</span>
+
+
+## PNG -> PDF
+
+Juntar imagens
+
+convert [nome da imagem] [nome da imagem 2] -append [nome imagem destino]
+Ex: 
+convert mapa_covid.png mapa_hpv.png -append mapas.png
+
+Imagem para PDF
+
+img2pdf [nome da imagem] -o [nome do PDF]
+
+Ex: 
+img2pdf mapas.png -o mapas.pdf 
+
