@@ -38,9 +38,8 @@ Acho importante lembrar que o alcool utilizado no processo interage com a camada
 
 ## ATV ABERTA - <span style="color:#12cac1">ATÉ 22/11</span>
 
-* [ ] FEITO
-
-* [ ] ENVIADO
+* [X] FEITO
+* [X] ENVIADO
 
 “Uma vacina é uma suspensão de organismos, ou frações de organismos, usada para induzir imunidade. Muitas doenças podem ser controladas com saneamento para impedir a disseminação e doenças sexualmente transmissíveis podem ser evitadas com o uso de preservativos. Se a prevenção falhar, as doenças bacterianas, geralmente, podem ser tratadas com antibióticos. As doenças virais, entretanto, muitas vezes não podem ser tratadas efetivamente. Portanto, a vacinação é, na maioria das vezes, o único modo possível de controle das doenças virais. Controlar uma doença não significa, necessariamente, exigir que todas as pessoas sejam imunes a ela. Se a maioria da população estiver imunizada, fenômeno chamado de imunidade coletiva (ou imunidade de rebanho), os surtos serão limitados a casos esporádicos, pois não haverá́ indivíduos suscetíveis em quantidade suficiente para sustentar a disseminação de uma epidemia.” Tortora, Gerard, J. et al. Microbiologia. Disponível em: Minha Biblioteca, (12th edição). Grupo A, 2017. 
 
