@@ -61,3 +61,18 @@
 * Capítulo 8: Estratégias para proteção e combate à infecção viral.
 
 # UNIDADE 4
+
+* Aula 01: Viroses (foco: HIV e HPV).
+* Aula 02: Micoses Superficial (Pitiríase Versicolor); Subcutânea (Cromoblastomicose); Sistêmica (Criptococose e Paracoccidioidomicose).
+* Aula 03: Doenças bacterianas transmitidas por água ou alimentos (Escherichia coli; Salmonella e Shigella).
+* Aula 04: Doenças bacterianas transmitidas por seres vivos (foco: sífilis e tuberculose).
+
+<span style="color:teal"> Stefan Riedel [et al.]. Microbiologia médica de Jawetz, Melnick e Adelberg. 26ª ed. </span>
+
+* Capítulo 15 – Bacilos entéricos Gram-negativos (Enterobacteriaceae) (página 234-252)
+* Capítulo 23 – Micobactérias (página 322-338)
+* Capítulo 24 – Espiroquetas: Treponema, Borrelia e Leptospira (página 338-350)
+* Capítulo 43 – Vírus oncogênicos humanos (página 647-650)
+* Capítulo 44 – Aids e lentivírus (página 654-660)
+* Capítulo 45 – Micologia médica (páginas 681 – 699)
+
