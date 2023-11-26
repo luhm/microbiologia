@@ -34,7 +34,71 @@ Acho importante lembrar que o alcool utilizado no processo interage com a camada
 
 ## QME - UN 2 - <span style="color:#12cac1">ATÉ 29/11</span>
 
-* [ ] FEITO
+* [X] FEITO - 26/11, 7pts
+
+Pergunta 1 (1 ponto) - GE-MICROBIO-UN2-A2-QME-01
+
+![](./assets/26185812.png)
+
+![](./assets/26190423.png)
+
+Pergunta 2 (1 ponto) - GE-MICROBIO-UN2-A1-QME-03
+
+![](./assets/26190531.png)
+
+![](./assets/26191044.png)
+
+Pergunta 3 (1 ponto) - GE-MICROBIO-UN2-A1-QME-02
+
+![](./assets/26191135.png)
+
+![](./assets/26191547.png)
+
+Pergunta 4 (1 ponto) - GE-MICROBIO-UN2-A2-QME-05
+
+![](./assets/26191811.png)
+
+![](./assets/26191844.png)
+
+![](./assets/26192535.png)
+
+Pergunta 5 (1 ponto) - GE-MICROBIO-UN2-A1-QME-01
+
+![](./assets/26192800.png)
+
+![](./assets/26193002.png)
+
+Pergunta 6 (1 ponto) - GE-MICROBIO-UN2-A2-QME-03
+
+![](./assets/26193102.png)
+
+![](./assets/26193512.png)
+
+Pergunta 7 (1 ponto) - GE-MICROBIO-UN2-A1-QME-05
+
+![](./assets/26193637.png)
+
+![](./assets/26194800.png)
+
+Pergunta 8 (1 ponto) - GE-MICROBIO-UN2-A2-QME-04
+
+![](./assets/26194842.png)
+
+![](./assets/26195256.png)
+
+Pergunta 9 (1 ponto) - GE-MICROBIO-UN2-A1-QME-04
+
+![](./assets/26195329.png)
+
+![](./assets/26200040.png)
+
+Pergunta 10 (1 ponto) - GE-MICROBIO-UN2-A2-QME-02
+
+![](./assets/26200123.png)
+
+![](./assets/26200753.png)
+
+
 
 ## ATV ABERTA - <span style="color:#12cac1">ATÉ 22/11</span>
 
