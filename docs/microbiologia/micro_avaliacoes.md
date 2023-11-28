@@ -236,3 +236,18 @@ Pergunta 10 (1 ponto) - GE-MICROBIO-UN4-QME-05
 
 ![image](https://github.com/luhm/microbiologia/assets/18331692/9bf52be5-c32c-4e47-90c5-58467ea31fd5)
 
+#### RESPOSTAS
+
+1. A
+2. C
+3. E
+4. B
+5. A
+6. D
+7. E
+8. A
+9. C
+10. D
+
+
+
