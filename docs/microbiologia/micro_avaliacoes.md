@@ -193,38 +193,38 @@ Atenção - Poderão ser feitos desenhos ou utilização de imagens da interne
 
 ## QME - UN 4 - <span style="color:#12cac1">ATÉ 29/11</span>
 
-* [ ] FEITO
+* [X] FEITO - 28/11, 10pts
 
 Pergunta 1 (1 ponto) - GE-MICROBIO-UN4-QME-04
+
 ![image](https://github.com/luhm/microbiologia/assets/18331692/6e27e5bf-7d57-44ce-9eda-001b5c39ad5c)
 
 Pergunta 2 (1 ponto) - GE-MICROBIO-UN4-QME-02
+
 ![image](https://github.com/luhm/microbiologia/assets/18331692/14c815a5-3a71-40f8-a9a0-11cd36c0f4a1)
 
 Pergunta 3 (1 ponto) - GE-MICROBIO-UN4-QME-08
+
 ![image](https://github.com/luhm/microbiologia/assets/18331692/5c6eec50-c4b0-4c2c-a20d-f6f9874919e0)
 ![image](https://github.com/luhm/microbiologia/assets/18331692/1dc67db9-8e5c-4cf1-a367-ec8d09d35618)
 
-Pergunta 4 (1 ponto) 
-GE-MICROBIO-UN4-QME-03
+Pergunta 4 (1 ponto) - GE-MICROBIO-UN4-QME-03
 
 ![image](https://github.com/luhm/microbiologia/assets/18331692/8a8c21a8-4a81-4b1c-adf0-300d94b214d4)
 
 Pergunta 5 (1 ponto) - GE-MICROBIO-UN4-QME-06
+
 ![image](https://github.com/luhm/microbiologia/assets/18331692/5c0d16fb-f0d0-47cb-8667-c4440315e668)
 
-Pergunta 6 (1 ponto) 
-GE-MICROBIO-UN4-QME-01
+Pergunta 6 (1 ponto) - GE-MICROBIO-UN4-QME-01
 
 ![image](https://github.com/luhm/microbiologia/assets/18331692/fea7384e-8206-4a07-a763-7f7f3c11c4fc)
 
-Pergunta 7 (1 ponto) 
-GE-MICROBIO-UN4-QME-10
+Pergunta 7 (1 ponto) - GE-MICROBIO-UN4-QME-10
 
 ![image](https://github.com/luhm/microbiologia/assets/18331692/4f0afa40-aa0a-4cc8-a280-90fcdf23f326)
 
-Pergunta 8 (1 ponto) 
-GE-MICROBIO-UN4-QME-07
+Pergunta 8 (1 ponto) - GE-MICROBIO-UN4-QME-07
 
 ![image](https://github.com/luhm/microbiologia/assets/18331692/98c9fa36-e055-49c0-b86a-1fc77eeb2e54)
 
