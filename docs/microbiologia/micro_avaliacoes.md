@@ -35,6 +35,12 @@ Acho importante lembrar que o alcool utilizado no processo interage com a camada
 ## QME - UN 2 - <span style="color:#12cac1">ATÉ 29/11</span>
 
 * [X] FEITO - 26/11, 7pts
+* [X] FEITO - 30/11, 10pts
+    - questões com marcação diferente:
+        - questão sobre _subtilis_ - alternativa sobre aumento no número de células.
+        - questão com 3 alternativas para serem julgadas, umas delas fala sobre crescimento de fungos a 37° - correto é todas as alternativas corretas.
+        - questão sobre metabolismo microbiano - alternativa sobre carbono é a correta.
+    - As outras questões estão com gabarito correto abaixo:
 
 Pergunta 1 (1 ponto) - GE-MICROBIO-UN2-A2-QME-01
 
